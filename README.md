@@ -1,19 +1,7 @@
-# Simple PHP MVC
+﻿Integrantes:
+Luis Fernando Inestroza Cerrato		0318-1995-01242
+Kevin Antonio Rosales Chicas		0801-1996-06218
+Jose Antonio Landa Palma		0801-1992-16259
+Edilson Mauricio Gomez Osorto		0801-1997-17121
 
-Version 2018
-
-## Requisitos
-
-1. Web Server con el módulo de php instalado preferible php 7+
-
-2. Servidor de Base de Datos MySQL 
-
-## Instrucciones de Instalación
-
-1. Descargar o clonar el repositorio de https://github.com/obetancourthunicah/simplePHPMVC.git en una carpeta accesible por el web server y el módulo de php.
-
-2. Con MySQL Workbench o phpMyAdmin, ejecutar los archivos .sql de la carpeta /docs/scripts en orden.
-
-3. Ejecutar desde el navegador http://host/uri/setup.php para crear el usuario administrador.
-
-4. Ir en el navegador a http://host/uri/ para arrancar el sistema.
+https://github.com/MauryGomez9/proyecto-de-negocio.git
